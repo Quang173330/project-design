@@ -13,3 +13,4 @@ yarn-error.log
 public/css
 public/images
 public/fonts
+/public/bower_components
