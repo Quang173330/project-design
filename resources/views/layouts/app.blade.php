@@ -36,6 +36,9 @@
     <link rel="stylesheet" class="color-changing" href="{{ asset('css/color4.css') }}" />
     <!-- Google Fonts -->
     <link href="{{ asset('css/css.css') }}" rel="stylesheet" />
+    <!-- font awesome -->
+    <link href="{{ asset('bower_components/font-awesome/css/font-awesome.min.css') }}" rel="stylesheet">
+
     <!-- place -->
     <script type="text/javascript" charset="UTF-8" src="js/common.js"></script>
     <script type="text/javascript" charset="UTF-8" src="js/util.js"></script>
