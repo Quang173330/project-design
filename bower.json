@@ -1,0 +1,17 @@
+{
+  "name": "project-design",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Le Xuan Quang <quang.lxun@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Quang173330/project-design",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
